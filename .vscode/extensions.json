@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "nrwl.angular-console",
+    "johnpapa.angular-essentials",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "bat67.markdown-extension-pack",
+    "esbenp.prettier-vscode"
+  ],
+  "unwantedRecommendations": []
+}

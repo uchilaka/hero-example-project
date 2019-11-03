@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## Tutorial
+
+We're following the main angular tutorial for building a **Hero** feature.
+
+### Next Lesson Plan
+
+- Continue feature development from [The Angular Hero Example Project](https://angular.io/tutorial/toh-pt1#show-the-heroescomponent-view)
+- Update `angular.json` to pull in styles from `/src/styles`
+- More **TDD**
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
