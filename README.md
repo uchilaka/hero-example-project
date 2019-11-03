@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## Backlog
+
+- Github PR templates
+- Configuring the test suite (Karma + Jasmine)
+  - To run in headless mode
+  - To output test reports as HTML
+  - Coverage libraries, limits and other configurations
+
 ## Tutorial
 
 We're following the main angular tutorial for building a **Hero** feature.
@@ -12,6 +20,10 @@ We're following the main angular tutorial for building a **Hero** feature.
 - Update `angular.json` to pull in styles from `/src/styles`
 - More **TDD**
 - Configure test coverage reporting
+- Using `jasmine spy`
+- Configure coverage limits (in the IstanbulReporter)
+  - Using `package.json`
+  - Using `karma.conf.js`
 
 ### Homework
 
