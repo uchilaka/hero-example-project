@@ -11,6 +11,14 @@ We're following the main angular tutorial for building a **Hero** feature.
 - Continue feature development from [The Angular Hero Example Project](https://angular.io/tutorial/toh-pt1#show-the-heroescomponent-view)
 - Update `angular.json` to pull in styles from `/src/styles`
 - More **TDD**
+- Configure test coverage reporting
+
+### Homework
+
+- Complete the [FUNDAMENTALS > Tour of Heroes App > 1. Hero Editor](https://angular.io/tutorial/toh-pt1#show-the-heroescomponent-view) tutorial in a new branch
+- Create a PR for those changes
+- Invite `uchilaka` to review your PR
+- Merge your PR into master after approval
 
 ## Development server
 
