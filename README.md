@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## Audits
+
+> Be sure to periodically run `yarn audit` to check for package dep vulnerabilities. More info about the yarn resource [here](https://yarnpkg.com/lang/en/docs/cli/audit/).
+
 ## Backlog
 
 - Github PR templates
