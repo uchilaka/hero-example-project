@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
 
+## Backlog
+
+- Github PR templates
+- Configuring the test suite (Karma + Jasmine)
+  - To run in headless mode
+  - To output test reports as HTML
+  - Coverage libraries, limits and other configurations
+
 ## Tutorial
 
 We're following the main angular tutorial for building a **Hero** feature.
@@ -11,6 +19,18 @@ We're following the main angular tutorial for building a **Hero** feature.
 - Continue feature development from [The Angular Hero Example Project](https://angular.io/tutorial/toh-pt1#show-the-heroescomponent-view)
 - Update `angular.json` to pull in styles from `/src/styles`
 - More **TDD**
+- Configure test coverage reporting
+- Using `jasmine spy`
+- Configure coverage limits (in the IstanbulReporter)
+  - Using `package.json`
+  - Using `karma.conf.js`
+
+### Homework
+
+- Complete the [FUNDAMENTALS > Tour of Heroes App > 1. Hero Editor](https://angular.io/tutorial/toh-pt1#show-the-heroescomponent-view) tutorial in a new branch
+- Create a PR for those changes
+- Invite `uchilaka` to review your PR
+- Merge your PR into master after approval
 
 ## Development server
 
