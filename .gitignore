@@ -47,4 +47,4 @@ Thumbs.db
 
 # Misc
 .nginx
-/package-*.json
+package-*.json
